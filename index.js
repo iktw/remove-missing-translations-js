@@ -12,7 +12,7 @@ if (srcDir && translationDir) {
     console.log('* Translation directory', translationDir);
     runScript();
 } else {
-    console.log('srcDir and translationDir arguments are required.');
+    console.log('--src-dir and --translation-dir arguments are required.');
 }
 
 function readFile(path) {
