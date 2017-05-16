@@ -1,0 +1,25 @@
+{
+    "name": "remove-missing-translations-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "jsonfile": "^3.0.0",
+        "recursive-readdir": "^2.2.1",
+        "yargs": "^8.0.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iktw/remove-missing-translations-js.git"
+    },
+    "author": "Mohammed Hammoud",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/iktw/remove-missing-translations-js/issues"
+    },
+    "homepage": "https://github.com/iktw/remove-missing-translations-js#readme"
+}
